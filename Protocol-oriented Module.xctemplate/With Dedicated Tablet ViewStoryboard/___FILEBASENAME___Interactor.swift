@@ -18,7 +18,7 @@ extension ___VARIABLE_ViperitModuleName___Interactor: ___VARIABLE_ViperitModuleN
 
 // MARK: - Interactor Viper Components Api
 private extension ___VARIABLE_ViperitModuleName___Interactor {
-    var presenter: ___VARIABLE_ViperitModuleName___PresenterApi {
-        return _presenter as! ___VARIABLE_ViperitModuleName___PresenterApi
-    }
+  var presenter: ___VARIABLE_ViperitModuleName___PresenterApi {
+    return _presenter as! ___VARIABLE_ViperitModuleName___PresenterApi
+  }
 }
