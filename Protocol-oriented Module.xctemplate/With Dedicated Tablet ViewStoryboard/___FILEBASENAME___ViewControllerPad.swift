@@ -18,7 +18,7 @@ extension ___VARIABLE_ViperitModuleName___ViewControllerPad: ___VARIABLE_Viperit
 
 // MARK: - ___FILEBASENAMEASIDENTIFIER___ViewTablet View Components API
 private extension ___VARIABLE_ViperitModuleName___ViewControllerPad {
-    var presenter: ___VARIABLE_ViperitModuleName___PresenterApi {
-        return _presenter as! ___VARIABLE_ViperitModuleName___PresenterApi
-    }
+  var presenter: ___VARIABLE_ViperitModuleName___PresenterApi {
+    return _presenter as! ___VARIABLE_ViperitModuleName___PresenterApi
+  }
 }

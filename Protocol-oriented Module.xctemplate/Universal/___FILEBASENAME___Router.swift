@@ -18,7 +18,7 @@ extension ___VARIABLE_ViperitModuleName___Router: ___VARIABLE_ViperitModuleName_
 
 // MARK: - ___VARIABLE_ViperitModuleName___ Viper Components
 fileprivate extension ___VARIABLE_ViperitModuleName___Router {
-    var presenter: ___VARIABLE_ViperitModuleName___PresenterApi {
-        return _presenter as! ___VARIABLE_ViperitModuleName___PresenterApi
-    }
+  var presenter: ___VARIABLE_ViperitModuleName___PresenterApi {
+    return _presenter as! ___VARIABLE_ViperitModuleName___PresenterApi
+  }
 }

@@ -18,7 +18,7 @@ extension ___VARIABLE_ViperitModuleName___ViewController: ___VARIABLE_ViperitMod
 
 // MARK: - ___VARIABLE_ViperitModuleName___View Viper Components API
 fileprivate extension ___VARIABLE_ViperitModuleName___ViewController {
-    var presenter: ___VARIABLE_ViperitModuleName___PresenterApi {
-        return _presenter as! ___VARIABLE_ViperitModuleName___PresenterApi
-    }
+  var presenter: ___VARIABLE_ViperitModuleName___PresenterApi {
+    return _presenter as! ___VARIABLE_ViperitModuleName___PresenterApi
+  }
 }
